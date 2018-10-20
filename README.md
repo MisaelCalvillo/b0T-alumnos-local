@@ -13,6 +13,7 @@ Sergio André López Pereo    -   @SergioPereo
 -------
 
 Jeremias Castañeda Arreola @Janaijc
+Soy técnico en informática y vengo de XonaYork
 
 -------
 
