@@ -22,3 +22,6 @@ David Rebollo   @dvidHD
 
 Rafael Duran Ceceñas @Rafaduce
 
+------
+Lázaro Hernández Camacho  @Grimjow91
+
