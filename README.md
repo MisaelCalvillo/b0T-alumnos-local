@@ -9,6 +9,7 @@ NOMBRE DE ALUMNOS 😎
 -------
 
 Sergio André López Pereo    -   @SergioPereo
+Me gusta programar!
 
 -------
 
@@ -26,5 +27,4 @@ proyectos mas complejos
 
 Rafael Duran Ceceñas @Rafaduce
 Estudiante de Ingenieria en Sistemas
-
 
