@@ -25,3 +25,6 @@ proyectos mas complejos
 -------
 
 Rafael Duran Ceceñas @Rafaduce
+Estudiante de Ingenieria en Sistemas
+
+
