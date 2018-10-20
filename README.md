@@ -9,6 +9,7 @@ NOMBRE DE ALUMNOS 😎
 -------
 
 Sergio André López Pereo    -   @SergioPereo
+Me gusta programar!
 
 -------
 
@@ -21,4 +22,3 @@ David Rebollo   @dvidHD
 -------
 
 Rafael Duran Ceceñas @Rafaduce
-
