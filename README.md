@@ -18,7 +18,9 @@ Jeremias Castañeda Arreola @Janaijc
 
 David Rebollo   @dvidHD
 
+Soy alguien que quiere aprender miles de cosas nuevas para desarrollar cada vez
+proyectos mas complejos 
+
 -------
 
 Rafael Duran Ceceñas @Rafaduce
-
