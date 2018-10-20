@@ -28,3 +28,6 @@ proyectos mas complejos
 Rafael Duran Ceceñas @Rafaduce
 Estudiante de Ingenieria en Sistemas
 
+------
+Lázaro Hernández Camacho  @Grimjow91
+
